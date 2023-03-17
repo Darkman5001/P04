@@ -534,6 +534,7 @@ namespace PcmHacking
                     break;
 
                 // P04_Intel
+                case 9352809:
                 case 12202127:
                 case 12207868:
                 case 12214378:
